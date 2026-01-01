@@ -13,7 +13,7 @@ This app helps users add, view, and manage daily tasks efficiently with a clean 
 <h2>📱 App Screenshot</h2>
 
 <p align="center">
-  <img src="screenshots/app_screenshot.png" 
+  <img src="https://github.com/muski630346/To-Do-List-Android-App/blob/master/Screenshot%202026-01-01%20202347.png" 
        alt="To-Do List Android App Screenshot" 
        width="300">
 </p>
